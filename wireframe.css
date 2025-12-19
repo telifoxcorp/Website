@@ -1,0 +1,6 @@
+.art1, .art2, .art3 {
+   background-image: url(images/back1.jpg);
+width: 300px;
+    float: left;
+    margin: 10px;
+}
