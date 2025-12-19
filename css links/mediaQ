@@ -1,0 +1,3979 @@
+/* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 320px) { 
+   li a {
+    font-size: 1.1m;}
+    
+    ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 0.8em;
+}
+    
+    #logo {
+        display: none;
+    }
+    
+     #linkbar1 {
+        height: 305px;
+         padding-right: -20px;
+         align-content: center;
+    }
+    
+    .name{
+        padding: 10px;
+        padding-left: -20px;
+
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 2%;
+}   
+    
+    .wel {
+        padding-top: 314px;
+    }
+    
+    
+    
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 7px;
+  padding: 20px;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+
+li:hover > ul {
+  display: none;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 0.97em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -150px;
+        margin-top: 330px;
+        margin-left: 40px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+    
+}
+
+/* end of sequence */
+    
+    
+    
+    
+    
+/* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 330px) { 
+   li a {
+    font-size: 1.1m;}
+    
+    ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 0.8em;
+}
+    
+    #logo {
+        display: none;
+    }
+    
+     #linkbar1 {
+        height: 305px;
+         padding-left: 6px;
+         align-content: center;
+    }
+    
+    .name{
+        padding: 23px;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 4%;
+}   
+    
+    .wel {
+        padding-top: 314px;
+    }
+    
+    
+    
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 7px;
+  padding: 20px;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+
+li:hover > ul {
+  display: none;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 0.97em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+/* end of sequence */    
+    
+    
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 340px) { 
+   li a {
+    font-size: 1.1m;}
+    
+    ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 0.8em;
+}
+    
+    #logo {
+        display: none;
+    }
+    
+    #linkbar1 {
+        height: 305px;
+         padding-left: 15px;
+         align-content: center;
+    }
+    
+    
+    
+    .name{
+      margin-left: -20px;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 8%;
+}   
+    
+    .wel {
+        padding-top: 333px;
+    }
+    
+    
+    
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 7px;
+  padding: 20px;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+
+li:hover > ul {
+  display: none;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 0.97em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+/* end of sequence */
+    
+    
+
+
+/* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 360px) { 
+   li a {
+    font-size: 1.1em;}
+    
+    #logo {
+        display: none;
+    }
+    
+     #linkbar1 {
+        height: 305px;
+         padding-left: 22px;
+         align-content: center;
+    }
+    
+    #name{
+        padding-left: 0px;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 8%;
+}   
+    
+    .wel {
+        padding-top: 314px;
+    }
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+   padding: 19px;
+    margin: 80px;
+        margin-top: 380px;
+        margin-bottom: -300px;
+    padding-top: 10px;
+        margin-left:  60px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+    
+    
+    
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 7px;
+  padding: 20px;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+
+li:hover > ul {
+  display: none;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 0.97em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+/* end of sequence */
+
+    
+    
+/* closing media */
+
+
+    
+
+    
+/* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 370px) { 
+   li a {
+    font-size: 1.1em;}
+    
+    #logo {
+        display: none;
+    }
+    
+    
+    
+    #music2 {
+    position: absolute;
+    right: 8%;
+}   
+    
+    .wel {
+        padding-top: 314px;
+    }
+    
+    
+    
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 7px;
+  padding: 20px;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+
+li:hover > ul {
+  display: none;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 0.97em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+/* end of sequence */
+
+    }
+    
+/* closing media */
+    
+    
+    
+    
+    
+    
+
+/* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 375px) { 
+   li a {
+    font-size: 1.14em;}
+    
+    #music2 {
+    position: absolute;
+    right: 8%;
+}   
+    
+
+    
+    #linkbar1 {
+        padding-left: 30px;
+    }
+    
+    
+     /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 7px;
+  padding: 20px;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+
+li:hover > ul {
+  display: none;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 0.97em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+    
+     .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 80px;
+        margin-top: 380px;
+        margin-bottom: -300px;
+    padding-top: 10px;
+         margin-left: 80px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+
+    
+    }
+/* closing media */
+    
+    
+    
+    
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 380px) { 
+   li a {
+    font-size: 1.14em;}
+    
+    #music2 {
+    position: absolute;
+    right: 8%;
+}   
+    
+    #linkbar1 {
+        height: 320px;
+        padding-left: 30px;
+    }
+    
+    #name{
+        padding-right: 10px;
+    }
+    
+        .wel {
+        padding-top: 327px;
+    }
+    
+   
+    
+     /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 7px;
+  padding: 20px;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+
+li:hover > ul {
+  display: none;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 0.97em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+/* end of sequence */  
+    
+   
+/* closing media */
+    
+    
+     
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 390px) { 
+   li a {
+    font-size: 1.14em;}
+    
+    #music2 {
+    position: absolute;
+    right: 8%;
+}   
+    
+    #linkbar1 {
+        height: 320px;
+        
+    }
+    
+        .wel {
+        padding-top: 327px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 0.9em;
+}
+    
+/* closing media */
+
+
+ /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 400px) { 
+   li a {
+    font-size: 1.14em;}
+    
+    #music2 {
+    position: absolute;
+    right: 8%;
+}   
+    
+   #linkbar1 {
+        height: 320px;
+        padding-left: 38px;
+    }
+    
+        .wel {
+        padding-top: 327px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1em;
+}
+    
+/* closing media */
+    
+/* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 410px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+    .name {
+    font-size: 1.47em;
+}
+    
+     #linkbar1 {
+        height: 305px;
+         padding-left: 0px;
+         align-content: center;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.0em;
+}
+    
+    }
+/* closing media */
+
+
+/* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 411px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+   .name{
+      margin-left: 0px;
+    }
+    
+     #linkbar1 {
+        height: 319px;
+         padding-left: 41px;
+         align-content: center;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.1em;
+}
+    
+      .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 280px;
+        margin-left: 85px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+/* closing media */
+    
+    
+    
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 414px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+   .name{
+      margin-left: 0px;
+    }
+    
+     #linkbar1 {
+        height: 319px;
+         padding-left: 41px;
+         align-content: center;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.1em;
+}
+    
+     .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 280px;
+        margin-left: 85px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+/* closing media */
+    
+    
+   
+    
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 420px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+    .name {
+    font-size: 1.47em;
+}
+    
+     #linkbar1 {
+        height: 319px;
+         padding-left: 40px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.1em;
+}
+    
+    }
+/* closing media */
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 430px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+    #name{
+       
+    }
+    
+    
+    .name {
+    font-size: 1.47em;
+    
+}
+    
+     #linkbar1 {
+        height: 319px;
+         padding-left: 50px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.2em;
+}
+    
+    }
+/* closing media */
+    
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 440px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+    #name{
+       
+    }
+    
+    
+    .name {
+    font-size: 1.47em;
+    
+}
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 20px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.0em;
+}
+    
+    }
+/* closing media */
+    
+    
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 500px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+    #name{
+       padding-left: -10px;
+    }
+    
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 70px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.0em;
+}
+    
+    }
+/* closing media */
+    
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 520px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+    #name{
+       padding-left: -10px;
+    }
+    
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 80px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.0em;
+}
+    
+    }
+/* closing media */
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 530px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+    #name{
+       
+    }
+    
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 90px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.1em;
+}
+    
+    }
+/* closing media */
+    
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 550px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 70px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.0em;
+}
+    
+    }
+/* closing media */
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 568px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 30%;
+}   
+    
+    #name {
+        margin-left: 10px;
+    }
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 20px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.1em;
+}
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 280px;
+        margin-left: 150px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+/* closing media */
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 570px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 70px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.0em;
+}
+    
+     .name{
+      margin-left: 100px;
+    }
+    
+    #name{
+      margin-left: 100px;
+    }
+    
+    }
+/* closing media */
+
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 590px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+    
+    
+     #linkbar1 {
+        height: 260px;
+         padding-left: 40px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 0.9em;
+}
+    
+     .name{
+      margin-left: 80px;
+    }
+    
+    }
+/* closing media */
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 590px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+    
+    
+     #linkbar1 {
+        height: 260px;
+         padding-left: 40px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 0.9em;
+}
+    
+     .name{
+      margin-left: 80px;
+    }
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 300px;
+        margin-left: 200px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    
+    }
+    
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 630px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 14%;
+}   
+    
+    
+    
+     #linkbar1 {
+        height: 260px;
+         padding-left: 40px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 0.9em;
+}
+    
+     .name{
+      margin-left: 120px;
+    }
+    
+    }
+/* closing media */
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 640px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 25%;
+}   
+    
+    #name{
+       padding-left: -20px;
+    }
+    
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 30px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.0em;
+}
+    
+    
+      .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 280px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+/* closing media */
+    
+    
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 640px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 25%;
+}   
+    
+    #name{
+       padding-left: -20px;
+    }
+    
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 30px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.0em;
+}
+    
+    
+      .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 280px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+/* closing media */
+    
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 700px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 30%;
+}   
+    
+    
+    
+     #linkbar1 {
+        height: 260px;
+         padding-left: 60px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1em;
+}
+    
+     .name{
+      margin-left: 120px;
+    }
+    
+    }
+/* closing media */
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 720px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 30%;
+}   
+    
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 20px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.0em;
+         margin-right: 50px;
+}
+    
+     .name{
+      margin-left: 100px;
+    }
+    
+    
+    
+       .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 280px;
+        margin-left: 250px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+/* closing media */
+    
+    
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 730px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 30%;
+}   
+    
+    
+    
+     #linkbar1 {
+        height: 260px;
+         padding-left: 70px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.1em;
+}
+    
+     .name{
+      margin-left: 120px;
+    }
+    
+    }
+/* closing media */
+    
+    
+    
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 732px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 30%;
+}   
+    
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 70px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.1em;
+}
+    
+     .name{
+      margin-left: 120px;
+    }
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 80px;
+        margin-top: 380px;
+        margin-bottom: -300px;
+    padding-top: 10px;
+        margin-left:  270px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 736px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 30%;
+}   
+    
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 70px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.1em;
+}
+    
+     .name{
+      margin-left: 120px;
+    }
+    
+    }
+/* closing media */
+    
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 740px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 30%;
+}   
+    
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 70px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.1em;
+}
+    
+     .name{
+      margin-left: 120px;
+    }
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 80px;
+        margin-top: 380px;
+        margin-bottom: -300px;
+    padding-top: 10px;
+        margin-left:  270px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+/* closing media */
+    
+    
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 760px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 30%;
+}   
+    
+    
+    
+     #linkbar1 {
+        height: 280px;
+         padding-left: 80px;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.2em;
+}
+    
+     .name{
+      margin-left: 120px;
+    }
+    
+      .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -150px;
+        margin-top: 370px;
+        margin-left: 250px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+/* closing media */
+
+
+/* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 768px) { 
+    li a {
+    font-size: 1.3em;
+    }
+
+    
+    #linkbar1 {
+        height: 380px;
+    }
+    
+    #logo{
+        display: block;
+        padding-right: 100px;
+    }
+    
+    
+    #music2 {
+    position: absolute;
+    right: 33%;
+}   
+    
+    #name {
+        padding-left: 0px;
+        padding-right: 0px;
+        padding: 0px;
+        font-size: 1em;
+    }
+    
+    .name {
+       
+        padding-left: 0px;
+        padding-right: 0px;
+        padding: 0px;
+        font-size: 1em;
+
+    }
+    
+    .wel {
+        padding-top: 330px;
+    }
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.4em;
+}
+    
+ul li a:hover { background: black; }
+
+
+li:hover > ul {
+  display: none;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 6px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 1.0em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+    
+      .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -150px;
+        margin-top: 370px;
+        margin-left: 250px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+    
+    
+    
+  /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 780px) { 
+    li a {
+    font-size: 1.3em;
+    }
+
+    
+    #linkbar1 {
+        height: 307px;
+    }
+    
+    #logo{
+        display: block;
+        padding-right: 100px;
+    }
+    
+    
+    #music2 {
+    position: absolute;
+    right: 33%;
+}   
+    
+    #name {
+        padding-left: 0px;
+        padding-right: 0px;
+        padding: 0px;
+        font-size: 1em;
+    }
+    
+    .name {
+       
+        padding-left: 0px;
+        padding-right: 0px;
+        padding: 0px;
+        font-size: 1em;
+
+    }
+    
+    .wel {
+        padding-top: 330px;
+    }
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.4em;
+    margin-right: -3px;
+    
+}
+    
+ul li a:hover { background: black; }
+
+
+li:hover > ul {
+  display: none;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 6px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 1.0em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+      .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -150px;
+        margin-top: 330px;
+        margin-left: 250px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+    
+    }  
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 800px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 33%;
+}   
+    
+   .name{
+      margin-left: 0px;
+    }
+    
+     #linkbar1 {
+        height: 300px;
+         padding-left: 30px;
+         align-content: center;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 0.8em;
+         margin-left: 10px;
+}
+    
+     .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 300px;
+        margin-left: 270px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+    
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 812px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 34%;
+}   
+    
+   .name{
+      margin-left: 0px;
+    }
+    
+     #linkbar1 {
+        height: 290px;
+         padding-left: 30px;
+         align-content: center;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 0.8em;
+         margin-left: 10px;
+}
+    
+     .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 300px;
+        margin-left: 280px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+    
+    
+    
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 846px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 30%;
+}   
+    
+   .name{
+      margin-left: 0px;
+    }
+    
+     #linkbar1 {
+        height: 319px;
+         padding-left: 41px;
+         align-content: center;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 1.1em;
+}
+    
+     .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -150px;
+        margin-top: 330px;
+        margin-left: 300px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+/* closing media */
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 896px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 30%;
+}   
+    
+   .name{
+      margin-left: 0px;
+    }
+    
+     #linkbar1 {
+        height: 250px;
+         padding-left: 30px;
+         align-content: center;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 0.8em;
+         margin-left: 10px;
+}
+    
+     .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 200px;
+        margin-left: 350px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 962px) { 
+   li a {
+    font-size: 1.3em;}
+    
+    #music2 {
+    position: absolute;
+    right: 33%;
+}   
+    
+   .name{
+      margin-left: 0px;
+    }
+    
+     #linkbar1 {
+        height: 150px;
+         padding-left: 30px;
+         align-content: center;
+    }
+    
+     ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+    font-size: 0.8em;
+         margin-left: 10px;
+}
+    
+     .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 200px;
+        margin-left: 370px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }
+
+
+/* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 1024px) { 
+
+    #linkbar1 {
+        height: 100px;
+        padding-left: 30px;
+    
+    }
+    
+    #logo{
+        display: none;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 38%;
+}   
+    
+   .name{
+     margin-right: 200px;
+    }
+    
+  
+    
+    .wel{
+        font-size: 2em;
+    }
+    
+    #History {
+        font-size: 1.2em;
+    }
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+    font-size: 0.8em;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+ul li a:hover { background: black; }
+
+
+li:hover > ul {
+  display: block;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 1em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: 10px;
+        margin-top: 200px;
+        margin-left: 400px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+
+
+    
+    }
+    
+    
+    
+    
+     /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 1080px) { 
+    li a {
+    font-size: 1.2em;
+    
+    }
+    
+    #logo{
+        display: block;
+        padding-right: 0px;
+    }
+    
+      .name{
+     margin-right: -333px;
+    }
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: 100px;
+        margin-top: 10px;
+        margin-left: 500px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    .content{
+        width: 100%;
+        overflow: auto;
+    }
+    
+    #linkbar1 {
+        height: 100px;
+         padding-left: 10px;
+         align-content: center;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 30%;
+}   
+    
+    
+    .front-image {
+    display: block;
+        width: 1080px;
+         text-align: center;
+    
+}
+    
+    .back-image{
+     display: block;
+       width: 1000px;
+        text-align: center;
+
+    }
+    
+    #gif{
+        align-content: center;
+    }
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+    font-size: 0.8em;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+ul li a:hover { background: black; }
+
+
+li:hover > ul {
+  display: block;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 0.97em;
+    padding-top: 27px;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+/* end of sequence */
+    
+    }
+    
+    
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 1112px) { 
+
+    #linkbar1 {
+        height: 150px;
+        padding-left: 30px;
+    
+    }
+    
+    #logo{
+        display: none;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 38%;
+}   
+    
+   .name{
+     margin-right: 200px;
+    }
+    
+  
+    
+    .wel{
+        font-size: 2em;
+    }
+    
+    #History {
+        font-size: 1.2em;
+    }
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+    font-size: 1.2em;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+ul li a:hover { background: black; }
+
+
+li:hover > ul {
+  display: block;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 1em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: 10px;
+        margin-top: 200px;
+        margin-left: 440px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+
+
+    
+    }
+    
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 1263px) { 
+    li a {
+    font-size: 1.12em;}
+    
+    #linkbar1 {
+        height: 170px;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 37%;
+}   
+    
+    .name {
+    font-size: 2.3em;
+        align-content: center;
+}
+    
+    .front-image {
+    display: block;
+        width: 1366px;
+}
+    
+    .back-image{
+     display: block;
+    width: 1366px;
+    }
+    
+     .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 200px;
+        margin-left: 510px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    .name{
+     margin-right: 300px;
+    }
+    
+  
+    
+    .wel{
+        font-size: 2em;
+    }
+    
+    #History {
+        font-size: 1.2em;
+    }
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+    font-size: 1.3em;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+ul li a:hover { background: black; }
+
+
+li:hover > ul {
+  display: block;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 1.0em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+}
+
+    
+/* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 1280px) { 
+
+    #linkbar1 {
+        height: 180px;
+        padding-left: 0px;
+    
+    }
+    
+    #logo{
+        display: none;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 37%;
+}   
+    
+   .name{
+     margin-right: 300px;
+    }
+    
+  
+    
+    .wel{
+        font-size: 2em;
+    }
+    
+    #History {
+        font-size: 1.2em;
+    }
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+    font-size: 1.1em;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+ul li a:hover { background: black; }
+
+
+li:hover > ul {
+  display: block;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 1.0em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+/* end of sequence */
+    
+     .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 200px;
+        margin-left: 550px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    }    
+    
+
+
+/* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 1366px) { 
+    li a {
+    font-size: 1.12em;}
+    
+    #linkbar1 {
+        height: 170px;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 37%;
+}   
+    
+    .name {
+    font-size: 2.3em;
+        align-content: center;
+}
+    
+    .front-image {
+    display: block;
+        width: 1366px;
+}
+    
+    .back-image{
+     display: block;
+    width: 1366px;
+    }
+    
+     .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: -100px;
+        margin-top: 200px;
+        margin-left: 600px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    .name{
+     margin-right: 300px;
+    }
+    
+  
+    
+    .wel{
+        font-size: 2em;
+    }
+    
+    #History {
+        font-size: 1.2em;
+    }
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+    font-size: 1.3em;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+ul li a:hover { background: black; }
+
+
+li:hover > ul {
+  display: block;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 1.0em;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+}
+
+
+
+
+    /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 1440px) { 
+    li a {
+    font-size: 1.12em;}
+    
+    #linkbar1 {
+        height: 100px;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 40%;
+}   
+    
+    .name {
+    font-size: 2.3em;
+        align-content: center;
+}
+    
+    .front-image {
+    display: block;
+        width: 1440px;
+}
+    
+    .back-image{
+     display: block;
+    width: 1440px;
+    }
+    
+    .name{
+     margin-right: -240px;
+    }
+    
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: 100px;
+        margin-top: 10px;
+        margin-left: 47px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+    }
+        /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 1536px) { 
+    li a {
+    font-size: 1.37em;}
+    
+    #linkbar1 {
+        height: 100px;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 40%;
+}   
+    
+    .name {
+    font-size: 2.3em;
+        align-content: center;
+}
+    
+    .front-image {
+    display: block;
+        width: 1536px;
+}
+    
+    .back-image{
+     display: block;
+    width: 1536px;
+    }
+    
+     .wel{
+        font-size: 2.5em;
+    }
+    
+    #History {
+        font-size: 1.8em;
+    }
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: 100px;
+        margin-top: 10px;
+        margin-left: 79px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+    }
+
+
+            /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 1600px) { 
+    li a {
+    font-size: 1.47em;}
+    
+    #linkbar1 {
+        height: 100px;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 40%;
+}   
+    
+    .name {
+    font-size: 2.3em;
+        align-content: center;
+}
+    
+    .front-image {
+    display: block;
+        width: 1600px;
+}
+    
+    .back-image{
+     display: block;
+    width: 1600px;
+    }
+    
+    }
+    
+      /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 1843px) { 
+    li a {
+    font-size: 1.2em;
+    
+    }
+    
+    #logo{
+        display: block;
+        padding-right: 0px;
+    }
+    
+      .name{
+     margin-right: -240px;
+    }
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/115815244-defocused-particle-form-abstract-animated-dark-background-abstract-energy-effect-for-your-presentati.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 195px;
+        margin-bottom: 100px;
+        margin-top: 10px;
+        margin-left: 181px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    .content{
+        width: 100%;
+        overflow: auto;
+    }
+    
+    #linkbar1 {
+        height: 88px;
+         padding-left: 300px;
+         align-content: center;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 44%;
+}   
+    
+    
+    .front-image {
+    display: block;
+        width: 1843px;
+         text-align: center;
+    
+}
+    
+    .back-image{
+     display: block;
+       width: 1843px;
+        text-align: center;
+
+    }
+    
+    #gif{
+        align-content: center;
+    }
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+    font-size: 0.8em;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+ul li a:hover { background: black; }
+
+
+li:hover > ul {
+  display: block;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 0.97em;
+    padding-top: 27px;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+/* end of sequence */
+    
+    }
+
+
+
+                /* Media Queries: Tablet Landscape */
+@media only screen and (min-width: 1920px) { 
+    li a {
+    font-size: 2.3em;
+    
+    }
+    
+    #logo{
+        display: block;
+        padding-right: 0px;
+    }
+    
+      .name{
+     margin-right: -240px;
+    }
+    
+    .art1, .art2, .art3 {
+   background-image: url(images/46148146934_db6dec6e77_b.jpg);
+width: 200px;
+    float: left;
+    padding: 19px;
+    margin: 100px;
+        margin-bottom: 100px;
+        margin-top: 100px;
+        margin-left: 250px;
+        margin-right: 90px;
+    align-content: center;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 17px;
+}
+    
+    
+    
+    .art4{
+   background-image: url(images/elegant-white-background-with-shiny-lines_1017-17580.jpg);
+width: 1000px;
+    float: left;
+    padding: 20px;
+    margin-right: 200px;
+    margin-left: 430px;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+.ar4 {
+    color: #000000;
+    font-weight: 300;
+    font-family:sans-serif;
+    float: left;
+    
+}
+
+.art5 {
+    color: #000000;
+    font-family:cursive;
+    float: none;
+    font-size: 50px;
+    align-content: center;
+    padding-left: 140px;
+    padding-right: 70px;
+    
+}
+    
+    .art6{
+   background-image: url(images/4-stem-cell-derived-nerve-cells-science-photo-library.jpg);
+width: 500px;
+    color: #000000;
+    float: left;
+    padding: 20px;
+    margin-right: 210px;
+    margin-left: 680px;
+    font-size: 15px;
+    margin-top: 50px;
+}
+
+.ar6 {
+    color: #000000;
+    font-weight: 300;
+    font-family:sans-serif;
+    float: left;
+    
+}
+    
+.ar9{
+            color: white;
+            font-family: serif;
+            font-size: 0.5em;
+            font-weight: bold;
+            text-align: center;
+            text-decoration: none;
+            text-shadow: 7px 7px 17px #FF0000;
+}
+
+.art9{
+            color: white;
+            font-family: serif;
+            font-size: 4em;
+            font-weight: bold;
+            text-align: center;
+            text-decoration: none;
+            text-shadow: 7px 7px 17px #FF0000;
+}
+    
+    
+    .art10, .art11 {
+    background-image: url(images/elegant-white-background-with-shiny-lines_1017-17580.jpg);
+width: 400px;
+    float: left;
+    padding: 60px;
+    margin-left: 400px;
+    margin-right: -350px;
+    align-content: center;
+    font-size: 15px;
+    line-height: 1.5em;    
+       
+    
+}
+
+.ar10, .ar11{
+    color: #000000;
+    font-weight: 300;
+    font-family:sans-serif;
+
+}
+    
+    .img-zoom-container {
+  position: relative;
+}
+
+.img-zoom-lens {
+  position: absolute;
+  border: 1px solid #d4d4d4;
+  /*set the size of the lens:*/
+  width: 40px;
+  height: 40px;
+}
+
+.img-zoom-result {
+  border: 1px solid #d4d4d4;
+  /*set the size of the result div:*/
+  width: 300px;
+  height: 300px;
+}
+    
+  
+
+    
+    .link1{
+    color: white;
+            font-family: serif;
+            font-size: 1em;
+            font-weight: bold;
+            text-decoration: none;
+            text-shadow: 0px 0px 0px #FF0000;
+    padding: 10px;
+    width: 200px;
+    float: left;
+    padding: 20px;
+    margin: 110px;
+    margin-left: 400px;
+    margin-bottom: 0px:
+    align-content: center;
+    font-size: 20px;
+    background-image: url(images/7644.jpg);
+        
+}
+    
+  .but10{
+    position: relative;
+    right: -160px;
+    top: 20px;
+    border-color: #000000;
+    border-bottom-width: medium;
+}
+
+
+
+
+.but2{
+    position: relative;
+    right: -427px;
+    top: 20px;
+    border-color: #ffffff;
+    border-bottom-width: medium;
+    float: left;
+    font-size: 22px;
+    
+}
+
+    
+    .content{
+        width: auto;
+        
+    }
+    
+    .container{ width: auto;}
+   
+    
+    #linkbar1 {
+        height: 88px;
+         padding-left: 200px;
+         align-content: center;
+    }
+    
+    #music2 {
+    position: absolute;
+    right: 42%;
+        background-image: url(images/giphy.gif);
+        padding: 20px;
+}   
+    
+    
+    .front-image {
+    display: block;
+        width: 1903px;
+         text-align: center;
+    
+}
+    
+    .back-image{
+     display: block;
+       width: auto;
+        text-align: center;
+
+    }
+    
+   
+    
+    /* Navigation Settings*/
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+    text-shadow: 1px 1px 17px #ffffff;
+        
+}
+
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+    font-size: 1.0em;
+}
+
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+}
+ul li a:hover { background: black; }
+
+
+li:hover > ul {
+  display: block;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: black; }
+
+li:hover li a:hover { background: black; }
+
+.main-navigation li ul li { border-top: 0; }
+
+
+ul ul ul {
+  left: 100%;
+  top: 0;
+}
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both; }
+
+
+
+li {
+  float: left;
+  display: inline-block;
+    padding: 5px;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 33px;
+  text-decoration: none;
+    font-family:sans-serif;
+    font-size: 1.97em;
+    padding-top: 27px;
+  
+}
+
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+/* end of sequence */
+    
+    }
